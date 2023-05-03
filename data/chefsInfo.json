@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
+    "name": "Sanjeev Kapoor",
+    "experience": "Google LLC",
+    "likes": "42k",
+    "recipes": 3
+  },
+  {
+    "id": 2,
+    "img": "https://en.wikipedia.org/wiki/File:Ranveer_Brar_Wiki_Image.jpg",
+    "name": "Ranveer Brar",
+    "experience": "",
+    "likes": "4k",
+    "recipes": 2
+  },
+  {
+    "id": 3,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGdklxnfDQpW9y7QUQw7SqmfTnYg8R6qox6t2Gs1DYo2bMnAm",
+    "name": "Vikas Khanna",
+    "experience": "Google LLC",
+    "likes": "3.5k",
+    "recipes": 3
+  },
+  {
+    "id": 4,
+    "img": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTdbD3uEwIMGXdIWRuznZz58Bwl9IOfYPPDoMfp11vk-wcdaEBztTkhNoc4N8JZPcYj",
+    "name": "Pankaj Bhadouriar",
+    "experience": "Google LLC",
+    "likes": "5.1k",
+    "recipes": 5
+  },
+  {
+    "id": 5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9IABSbDbNAZ2KgUeGwoD44Xu-o-8HUqB_nCs7kVWt&usqp=CAE&s",
+    "name": "Kunal Kapur",
+    "experience": "Google LLC",
+    "likes": "1.1k",
+    "recipes": 3
+  },
+  {
+    "id": 6,
+    "img": "https://en.wikipedia.org/wiki/Manish_Mehrotra",
+    "name": "Manish Mehrotra",
+    "experience": "Google LLC",
+    "likes": "452k",
+    "recipes": 1
+  }
+]
