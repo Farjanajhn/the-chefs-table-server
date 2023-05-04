@@ -3,48 +3,54 @@
     "id": 1,
     "img": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
     "name": "Sanjeev Kapoor",
-    "experience": "Google LLC",
+    "experience": 12,
     "likes": "42k",
-    "recipes": 3
+    "recipes": 3,
+    "popular":"https://www.sanjeevkapoor.com/UploadFiles/ArticleImages/Top_5_Spinach_Recipes_.JPG"
   },
   {
     "id": 2,
-    "img": "https://en.wikipedia.org/wiki/File:Ranveer_Brar_Wiki_Image.jpg",
+    "img": "https://ranveerbrar.com/wp-content/uploads/2020/12/Image-about-me-ranveer-brar.png",
     "name": "Ranveer Brar",
-    "experience": "",
+    "experience": 10,
     "likes": "4k",
-    "recipes": 2
+    "recipes": 2,
+    "popular":"https://c.ndtvimg.com/2022-03/4pedrge8_cutlet_625x300_08_March_22.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350"
   },
   {
     "id": 3,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGdklxnfDQpW9y7QUQw7SqmfTnYg8R6qox6t2Gs1DYo2bMnAm",
     "name": "Vikas Khanna",
-    "experience": "Google LLC",
+    "experience":12,
     "likes": "3.5k",
-    "recipes": 3
+    "recipes": 3,
+    "popular":"https://images.indulgexpress.com/uploads/user/imagelibrary/2020/1/16/original/Oatsaranciniballs.jpeg?w=576&dpr=2.0"
   },
   {
     "id": 4,
     "img": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTdbD3uEwIMGXdIWRuznZz58Bwl9IOfYPPDoMfp11vk-wcdaEBztTkhNoc4N8JZPcYj",
     "name": "Pankaj Bhadouriar",
-    "experience": "Google LLC",
+    "experience": 24,
     "likes": "5.1k",
-    "recipes": 5
+    "recipes": 5,
+    "popular":"https://www.pankajbhadouria.com/wp-content/uploads/chicken-65.jpg"
   },
   {
     "id": 5,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9IABSbDbNAZ2KgUeGwoD44Xu-o-8HUqB_nCs7kVWt&usqp=CAE&s",
     "name": "Kunal Kapur",
-    "experience": "Google LLC",
+    "experience": 15,
     "likes": "1.1k",
-    "recipes": 3
+    "recipes": 3,
+    "popular":"https://1.bp.blogspot.com/-ePRPv4NxLX8/V_fAPlY8CMI/AAAAAAAAZcE/XqnxEKwa5D4XVve2nyouyujsi9_8m7K9QCLcB/s1600/Screen%2BShot%2B2016-10-07%2Bat%2B8.46.20%2BPM.png"
   },
   {
     "id": 6,
-    "img": "https://en.wikipedia.org/wiki/Manish_Mehrotra",
-    "name": "Manish Mehrotra",
-    "experience": "Google LLC",
+    "img": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSPAln_4WHaVm7TYo9kivc_0l_qk1JN0UqFAg-u0awhKT8dVT_BjLj92oBepLL485GOBdMMIxLaLFRk80g",
+    "name": "Atul Kochhar",
+    "experience": 10,
     "likes": "452k",
-    "recipes": 1
+    "recipes": 1,
+    "popular":"https://media-cdn2.greatbritishchefs.com/media/1e1pkj5a/img88112.whqc_1536x1024q90.webp"
   }
 ]
