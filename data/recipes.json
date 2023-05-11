@@ -7,20 +7,27 @@
     "experience": 12,
     "likes": "42k",
     "bio": "Kapoor was born in April 1964 in Ambala and spent his childhood in multiple North Indian cities. He began his career in the hospitality industry in 1984 after completing the Diploma in Hotel Management from the Institute of Hotel Management Catering & Nutrition, Pusa, New Delhi.",
-    "recipes": 3,
-    "popular": "https://www.sanjeevkapoor.com/UploadFiles/ArticleImages/Top_5_Spinach_Recipes_.JPG",
-    "recipe_name1": "Butter Chicken",
-    "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
-    "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
-    "rating": 4.5,
-    "recipe_name2": "Soya Chop Patio Recipe Card",
-    "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating2": 5,
-    "recipe_name3": "Mixed Vegetable Cutlets Recipe Card",
-    "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "rating3": 5
-  },
+    "recipes": 23,
+
+      "recipe1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
+      "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
+      "rating": 4.5,
+     
+     
+      "recipe2": "Soya Chop Patio Recipe Card",
+      "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
+      "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+      "rating2": 5,
+     
+      
+        "recipe3": "Mixed Vegetable Cutlets Recipe Card",
+        "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
+        "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+        "rating3": 5,
+      
+    "popular": "https://www.sanjeevkapoor.com/UploadFiles/ArticleImages/Top_5_Spinach_Recipes_.JPG"
+    },
   {
     "_id": "2",
     "category_id":"2",
@@ -29,19 +36,28 @@
     "bio": "He d_id his schooling from HAL school Lucknow. His passion to learn the art led him to volunteer as an apprentice to one of them, Munir Ustad. Though his family initially resisted, they finally gave in, leading Brar to join Institute of Hotel Management, Lucknow, for a more formal initiation into the culinary world.",
     "experience": 10,
     "likes": "4k",
-    "recipes": 2,
-    "popular": "https://c.ndtvimg.com/2022-03/4pedrge8_cutlet_625x300_08_March_22.jpg?im=FaceCrop,algorithm=dnn,w_idth=620,height=350",
-    "recipe_name1": "Butter Chicken",
+    "recipes": 45,
+    "popular_recipes":[{
+      "recipe1": "Butter Chicken",
     "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
     "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
-    "rating": 4.5,
-    "recipe_name2": "Soya Chop Patio Recipe Card",
+    "rating": 4.5
+    },
+  {
+    "recipe2": "Soya Chop Patio Recipe Card",
     "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
     "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating2": 5,
-    "recipe_name3": "Mixed Vegetable Cutlets Recipe Card",
+    "rating2": 5
+  },
+  {
+    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
     "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
+    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
     "rating3": 5
+  }
+   ],
+    "popular": "https://c.ndtvimg.com/2022-03/4pedrge8_cutlet_625x300_08_March_22.jpg?im=FaceCrop,algorithm=dnn,w_idth=620,height=350"
+    
   },
   {
     "_id": "3",
@@ -49,41 +65,59 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGdklxnfDQpW9y7QUQw7SqmfTnYg8R6qox6t2Gs1DYo2bMnAm",
     "name": "Vikas Khanna",
     "experience": 12,
+    "bio":"Chef Vikas Khanna is a Michelin-starred chef, restaurateur, cookbook writer, filmmaker, and humanitarian. Vikas Khanna was born on November 14, 1971, in Amritsar, Punjab, to Davinder and Bindu Khanna. Vikas was born with a leg deformity, and he was not able to run until the age of 13",
     "likes": "3.5k",
-    "recipes": 3,
-    "popular": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/1/16/original/Oatsaranciniballs.jpeg?w=576&dpr=2.0",
-    "recipe_name1": "Butter Chicken",
+    "recipes": 34,
+    "popular_recipes":[{
+      "recipe1": "Butter Chicken",
     "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
     "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
-    "rating": 4.5,
-    "recipe_name2": "Soya Chop Patio Recipe Card",
+    "rating": 4.5
+    },
+  {
+    "recipe2": "Soya Chop Patio Recipe Card",
     "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
     "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating2": 5,
-    "recipe_name3": "Mixed Vegetable Cutlets Recipe Card",
+    "rating2": 5
+  },
+  {
+    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
     "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
+    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
     "rating3": 5
+  }
+   ],
+    "popular": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/1/16/original/Oatsaranciniballs.jpeg?w=576&dpr=2.0"
   },
   {
     "_id": "4",
     "category_id":"4",
     "img": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTdbD3uEwIMGXdIWRuznZz58Bwl9IOfYPPDoMfp11vk-wcdaEBztTkhNoc4N8JZPcYj",
     "name": "Pankaj Bhadouriar",
+    "bio" :"Born on 14 July 1971 in New Delhi to Vinod Khanna and Priya Khanna, Pankaj is the elder of their two children with one younger brother. She lost her father at the age of 13 years and her mother when she was 22. She did her schooling from Kendriya Vidyalaya, New Delhi and finished her higher education in Lucknow. She did her bachelor's degree in English, master's degree in English literature from Lucknow University, and then she also did her bachelor's degree in education from Lucknow University to prepare herself for her chosen career. She is married to Charu Samarth and has two children, a daughter, Sonalika Bhadouria and a son, Siddhant Bhadouria.",
     "experience": 24,
+
     "likes": "5.1k",
-    "recipes": 5,
-    "popular": "https://www.pankajbhadouria.com/wp-content/uploads/chicken-65.jpg",
-    "recipe_name1": "Butter Chicken",
+    "recipes": 138,
+    
+    "recipe1": "Butter Chicken",
     "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
     "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
     "rating": 4.5,
-    "recipe_name2": "Soya Chop Patio Recipe Card",
+    "recipe2": "Soya Chop Patio Recipe Card",
     "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
     "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
     "rating2": 5,
-    "recipe_name3": "Mixed Vegetable Cutlets Recipe Card",
+ 
+  
+    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
     "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "rating3": 5
+    "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "rating3": 5,
+
+   
+    "popular": "https://www.pankajbhadouria.com/wp-content/uploads/chicken-65.jpg"
+    
   },
   {
     "_id": "5",
@@ -92,20 +126,29 @@
     "name": "Kunal Kapur",
     "experience": 15,
     "likes": "1.1k",
-    "recipes": 3,
-    "popular": "https://1.bp.blogspot.com/-ePRPv4NxLX8/V_fAPlY8CMI/AAAAAAAAZcE/XqnxEKwa5D4XVve2nyouyujsi9_8m7K9QCLcB/s1600/Screen%2BShot%2B2016-10-07%2Bat%2B8.46.20%2BPM.png",
-    "recipe_name1": "Butter Chicken",
+    "bio":"Kapur was born in New Delhi to a Punjabi family. He studied at St. Francis De Sales School and pursued higher education in Hotel Management from Dr. Ambedkar Institute of Hotel Management Catering & Nutrition, Chandigarh.From a very early age, Kapur took a liking to cooking and pursued it to become one of the most well-known chefs in India. He trains underprivileged and unemployed youth in cooking and helps raise funds to make their own sustained food business together with United Ways Delhi. He is also passionate about automobiles, technology, travel, fashion and history.",
+    "recipes": 73,
+  
+      "recipe1": "Butter Chicken",
     "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
     "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
     "rating": 4.5,
-    "recipe_name2": "Soya Chop Patio Recipe Card",
+ 
+  
+    "recipe2": "Soya Chop Patio Recipe Card",
     "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
     "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
     "rating2": 5,
-    "recipe_name3": "Mixed Vegetable Cutlets Recipe Card",
+ 
+ 
+    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
     "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "rating3": 5
+    "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "rating3": 5,
+
+    "popular": "https://1.bp.blogspot.com/-ePRPv4NxLX8/V_fAPlY8CMI/AAAAAAAAZcE/XqnxEKwa5D4XVve2nyouyujsi9_8m7K9QCLcB/s1600/Screen%2BShot%2B2016-10-07%2Bat%2B8.46.20%2BPM.png"
   },
+   
   {
     "_id": "6",
     "category_id":"6",
@@ -113,18 +156,27 @@
     "name": "Atul Kochhar",
     "experience": 10,
     "likes": "452k",
-    "recipes": 1,
-    "popular": "https://media-cdn2.greatbritishchefs.com/media/1e1pkj5a/img88112.whqc_1536x1024q90.webp",
-    "recipe_name1": "Butter Chicken",
+    "recipes": 65,
+    "bio":"Atul Kochhar is an Indian-born, British-based chef and television personality. Kochhar was one of the first two Indian chefs to receive a Michelin star, awarded in London in 2001 whilst at Tamarind.[1] He opened his own restaurant Benares, which won him a second Michelin star in 2007.[2] Since then he has opened several other restaurants: Kanishka in London, Masalchi in Wembley Park, Sindhu[3] Vaasu, Riwaz and Hawkyns in Buckinghamshire and Indian Essence in Petts Wood, Kent.[4]Kochhar makes regular appearances on television shows, and has written a number of cookbooks: Curry Everyday, Simple Indian, Fish, Indian Style, Curries of the World, and 30 Minute Curries.",
+
+      "recipe1": "Butter Chicken",
     "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
     "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
     "rating": 4.5,
-    "recipe_name2": "Soya Chop Patio Recipe Card",
+   
+  
+    "recipe2": "Soya Chop Patio Recipe Card",
     "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
     "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
     "rating2": 5,
-    "recipe_name3": "Mixed Vegetable Cutlets Recipe Card",
+  
+  
+    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
     "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "rating3": 5
+    "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "rating3": 5,
+  
+    "popular": "https://media-cdn2.greatbritishchefs.com/media/1e1pkj5a/img88112.whqc_1536x1024q90.webp"
   }
+   
 ]

@@ -27,12 +27,7 @@ app.get('/recipes/:id', (req, res) => {
   res.send(selectedRecipes);
 });
 
-app.get('/category/:id', (req, res) => {
-  const id = req.params.id;
-  console.log(id);
-  const categoryRecipes = recipes.filter(r => r.category_id === id);
-  res.send(categoryRecipes)
-});
+
  
 
 
