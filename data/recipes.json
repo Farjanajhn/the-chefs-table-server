@@ -9,20 +9,20 @@
     "bio": "Kapoor was born in April 1964 in Ambala and spent his childhood in multiple North Indian cities. He began his career in the hospitality industry in 1984 after completing the Diploma in Hotel Management from the Institute of Hotel Management Catering & Nutrition, Pusa, New Delhi.",
     "recipes": 23,
 
-      "recipe1": "Butter Chicken",
-      "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
+      "recipe1":"Butter Chicken",
+      "ingredients1":"2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
       "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
       "rating": 4.5,
      
      
-      "recipe2": "Soya Chop Patio Recipe Card",
-      "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-      "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+      "recipe2":"Soya Chop Patio Recipe Card",
+      "ingredients2":"Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
+      "method2":"Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
       "rating2": 5,
      
       
-        "recipe3": "Mixed Vegetable Cutlets Recipe Card",
-        "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
+        "recipe3":"Mixed Vegetable Cutlets Recipe Card",
+        "ingredients3":"Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
         "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
         "rating3": 5,
       
@@ -37,26 +37,23 @@
     "experience": 10,
     "likes": "4k",
     "recipes": 45,
-    "popular_recipes":[{
-      "recipe1": "Butter Chicken",
-    "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
-    "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
-    "rating": 4.5
-    },
-  {
-    "recipe2": "Soya Chop Patio Recipe Card",
-    "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating2": 5
-  },
-  {
-    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
+    
+      "recipe1":"Dahi Poha",
+    "ingredients1":"Poha–50 gms,Curd–100 gms,Jaggery powder/sugar–50 gms,Cardamom powder–1 tbsp,Milk–2 tbsp,Pomegranate – 1",
+    "method1": "Wash the poha and soak it in water till it becomes soft.Whisk curd and jaggery powder/sugar in a bowl and add cardamom to it.Add to this the soaked poha and mix well.Refrigerate the mixture and let it cool.Garnish with pomegranate seeds and sprinkle jaggery powder on top. Serve chilled.",
+    "rating": 4.5,
+    
+    "recipe2":"Oats Banana Choco Chip Pancakes",
+    "ingredients2":"Oats–1 Cup,Baking Powder – 1 ½ Tsp,Salt – ¼ Tsp,Ripe Bananas- 2,Sugar – 2 tbsp,Vanilla Essence–1 Tsp,Milk – ¾ Cup,Chocolate Chips – ¼ Cup",
+    "method2": "To make the batter, combine all the ingredients except chocolate chips and mix them well in a blender.Now add the chocolate chips to the batter and let it rest for 3-4 minutes.Lightly grease a pan with butter and pour a ladle full in it.Cook on medium low flame and flip once bubbles appear on top. Cook for approximately 4-5 mins.Serve hot with honey.",
+    "rating2": 5,
+    "photo2":"https://crazymasalafood.com/wp-content/images/Dahi-Poha.jpg.webp",
+  
+    "recipe3":"Mixed Vegetable Cutlets Recipe Card",
     "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating3": 5
-  }
-   ],
-    "popular": "https://c.ndtvimg.com/2022-03/4pedrge8_cutlet_625x300_08_March_22.jpg?im=FaceCrop,algorithm=dnn,w_idth=620,height=350"
+    "method3": "To make the batter, combine all the ingredients except chocolate chips and mix them well in a blender.Now add the chocolate chips to the batter and let it rest for 3-4 minutes.Lightly grease a pan with butter and pour a ladle full in it.Cook on medium low flame and flip once bubbles appear on top. Cook for approximately 4-5 mins.Serve hot with honey.",
+    "rating3": 5,
+    "photo3": "https://crazymasalafood.com/wp-content/images/Oats-Banana-Choco-Chip-Pancakes.jpg.webp"
     
   },
   {
@@ -68,26 +65,23 @@
     "bio":"Chef Vikas Khanna is a Michelin-starred chef, restaurateur, cookbook writer, filmmaker, and humanitarian. Vikas Khanna was born on November 14, 1971, in Amritsar, Punjab, to Davinder and Bindu Khanna. Vikas was born with a leg deformity, and he was not able to run until the age of 13",
     "likes": "3.5k",
     "recipes": 34,
-    "popular_recipes":[{
-      "recipe1": "Butter Chicken",
-    "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
-    "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
-    "rating": 4.5
-    },
-  {
-    "recipe2": "Soya Chop Patio Recipe Card",
-    "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating2": 5
-  },
-  {
-    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
-    "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
-    "rating3": 5
-  }
-   ],
-    "popular": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/1/16/original/Oatsaranciniballs.jpeg?w=576&dpr=2.0"
+      "recipe1":"Chai-Infused Emperor’s Green Rice",
+    "ingredients1":"Emperor’s green rice- 1 cup,White cloves- 4,Unsalted butter– 2 tablespoons,Bay leaves- 4,Green cardamom pods- 6,Three-inch-long cinnamon sticks- 2,Strong black tea bags,Two-inch-long fresh ginger (peeled and minced)- 1,Water- 1 1/2 cups,Finely chopped fresh cilantro- 1/2 cup,Salt- 1 teaspoon",
+    "method1":"Wash the rice in cold water and soak for half an hour in cold water. Set aside for a while.Preheat the oven to 350 Fahrenheit.Melt butter over medium heat.Add bay leaves, cardamom, cloves, ginger, and cinnamon. Stir for two minutes.Add rice and sauté for a few minutes.Add the water, salt, and tea bags. Boil and cover with a kitchen towel and lid.Bake for 15 minutes.Remove tea bags carefully and garnish with cilantro.",
+    "rating": 4.5,
+      "photo1":"https://crazymasalafood.com/wp-content/images/Chai-Infused-Emperors-Green-Rice.jpg.webp",
+    "recipe2":"Masala Honey Cornish Hens",
+    "ingredients2":"One-pound Cornish hens rinsed well and patted dry- 4,Salt- 1/2 tablespoon,Lavender,powder ground- 1/4 cup,Garam masala- 1/4 cup,Soy sauce- 2 tablespoons,Juice of 2 lemons,Olive oil- 1/4 cup,Sprigs for garnish",
+    "method2": "Preheat oven to 400 degrees Fahrenheit.Season the hens with salt and set aside for ten minutes.Take a bowl and add lemon juice, honey, lavender flowers, soy sauce, and garam masala. Mix well.Marinade the hens.Heat oil and sear the hens.Roast the hens in the oven.Insert the thermometer in the thigh of hens and wait till it reads 165 degrees F.Garnish with lavender sprigs.",
+    "rating2": 5,
+    "photo2":"https://crazymasalafood.com/wp-content/images/Masala-Honey-Cornish-Hens.jpg.webp",
+  
+  
+    "recipe3":"French Breakfast Radish with Mustard Dressing",
+    "ingredients3":"Olive oil- 1 tablespoon,Small and sliced French breakfast radishes- 2 cups,Cumin seeds- 1/4 tablespoon,Black mustard seeds- 1/4 tablespoon,Chopped cilantro- 1 tablespoon,Turmeric- 1/4 tablespoon,Salt- 1/2 tablespoon,Red onion minced- 1,Lemon juice- 1 tablespoon,Roasted peanuts- 1 cup",
+    "method3":"Heat oil in a saucepan and add cumin and mustard seeds.When the seeds splutter, add onion, salt, and turmeric. Cook well.Cool the mixture and use it as dressing.Place radishes in a small bowl and add radishes with lemon juice.Serve with cilantro and peanuts.",
+    "rating3": 5,
+    "photo3": "https://crazymasalafood.com/wp-content/images/French-Breakfast-Radish-with-Mustard-Dressing.jpg.webp"
   },
   {
     "_id": "4",
@@ -100,23 +94,25 @@
     "likes": "5.1k",
     "recipes": 138,
     
-    "recipe1": "Butter Chicken",
-    "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
-    "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
+    "recipe1": "Tandoori Aloo",
+    "ingredients1": "½ cup hung yoghurt,2tbsp ginger garlic paste,1tbsp chopped coriander leaves,1tsp chopped green chilies,1tbsp mustard oil,1tbsp fresh lime juice,1 tsp salt,½ tsp turmeric powder,½tsp garam masala,1tsp chat masala,1tbsp kashmiri red chili powder,1tbsp kasoori methi,400g parboiled baby potatoes,Oil to fry",
+    "method1": "Whisk the yoghurt. Mix in all the ingredients to make a fine smooth paste.Add the parboiled potatoes, mix well and marinate for at least 4 hours in the refrigerator.Arrange on skewers and suspend across a grill. Grill about 4 inches from heat, turning regularly, until browned in spots and just cooked through (7 -8 minutes).Baste with oil at intervals. Remove from fire and serve hot with onion rings, and lemon wedges.Alternatively, bake them in the Oven at 190C for 25 minutes.",
     "rating": 4.5,
-    "recipe2": "Soya Chop Patio Recipe Card",
-    "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "photo1":"https://www.pankajbhadouria.com/wp-content/uploads/tandoori-aloo.jpg",
+
+
+    "recipe2": "Honey Sesame Chili Chicken",
+    "ingredients2":"2 chicken breasts,1tsp vinegar,1 tsp red chili powder,2tbsp cornstarch,2tbsp flour,1egg white,Salt to taste,1½ tbsp oil",
+    "method2":"Cut the chicken breast into thin long strips ( ½ cm thick).Marinate the chicken strips with 1 tsp vinegar, 1/2tsp salt, ½ tsp tsp red chili powder for 20 minutes.Make a batter of the egg white, flour, salt, corn flour, ½ tsp red chili powder with little water as required.Heat 2” deep oil in a pan. Dip the chicken sticks in the batter and deep fry in medium hot oil to a golden color. Remove.Heat 1 tbsp oil in a pan, add the garlic and sauté on high flame for few seconds. Add the broken red chilies and saute for another 30 seconds or till the chilies are fragrant. Add red chili paste, tomato sauce and vinegar and combine. Add the fried chicken pieces and toss for a minute on medium-high flame.Turn off heat. Add the honey and toss the contents till well combined.Sprinkle toasted sesame seeds and garnish with spring onion greens or coriander leaves and combine.",
     "rating2": 5,
+    "photo2":"https://www.pankajbhadouria.com/wp-content/uploads/honey-sesame-chili-chicken.jpg",
  
   
-    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
-    "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "recipe3":"White Chocolate Babaganoush",
+    "ingredients3":"1 large aubergine,Olive oil to drizzle,8 – 10 garlic cloves,1/3 cup lemon juice,1 cup tahini paste,salt as per taste,1 tsp red chilli powder,1 tsp black pepper powder,2 tsp parsley,½ tsp cumin seeds,100 gm melted white chocolate,pomegranate seeds to garnish,parsley leaves to garnish",
+    "method3":"Cut the aubergine into 2 halves lengthwise. Drizzle about 4 tbsp olive oil over it.Place the aubergine on a baking tray with cut side down. Also place garlic cloves in a bowl drizzle a little oil over the garlic.Grill it in the oven for 40 minutes, removing the garlic after 20 minutes.Alternatively, you could also grill the aubergines over naked flame till the skin is charred and the flesh well cooked.Remove the skin of the aubergine and separate the pulp.Chop white chocolate into pieces and place in a microwave safe bowl. Microwave for 45 seconds, remove and mix well.In a blender jar, add aubergine, garlic, lemon juice, tahini paste, salt as per taste. Add red chilli powder, black pepper powder, parsley, cumin seeds, melted white chocolate and prepare a paste.Remove the baba ganoush in a bowl. Garnish the baba ganoush with pomegranate seeds, chopped parsley leaves and serve with toasted pita bread.",
     "rating3": 5,
-
-   
-    "popular": "https://www.pankajbhadouria.com/wp-content/uploads/chicken-65.jpg"
+    "photo3": "https://www.pankajbhadouria.com/wp-content/uploads/white-chocolate-babaganoush.jpg"
     
   },
   {
@@ -129,24 +125,26 @@
     "bio":"Kapur was born in New Delhi to a Punjabi family. He studied at St. Francis De Sales School and pursued higher education in Hotel Management from Dr. Ambedkar Institute of Hotel Management Catering & Nutrition, Chandigarh.From a very early age, Kapur took a liking to cooking and pursued it to become one of the most well-known chefs in India. He trains underprivileged and unemployed youth in cooking and helps raise funds to make their own sustained food business together with United Ways Delhi. He is also passionate about automobiles, technology, travel, fashion and history.",
     "recipes": 73,
   
-      "recipe1": "Butter Chicken",
-    "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
-    "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
+      "recipe1":"Caramel Custard",
+    "ingredients1":"Milk- 500 ml,Sugar- 80 grams,Eggs- 6,Sugar for caramel- 100 grams,Vanilla extract- 3 ml",
+    "method1":"Warm milk and add vanilla extract & Remove from heat.Add the eggs and whisk gently.Add sugar in a pan and cook till it is golden brown. Pour a spoon of this caramel on custard molds. Pour the custard.Take a baking tray filled with water. Place the custard molds.Bake for 15 minutes at 150 C.Refrigerate the molds for two hours before serving.",
     "rating": 4.5,
+    "photo1":"https://www.crazymasalafood.com/wp-content/images/Caramel-Custard.jpg",
  
   
-    "recipe2": "Soya Chop Patio Recipe Card",
-    "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "recipe2":"Chili Paneer",
+    "ingredients2":"Paneer cubes- 350 grams,Salt to taste,Oil- 3 tablespoon,Chili powder- 1 teaspoon,Cornflour- 2 tablespoon,Oil for frying,Kashmiri Chili powder- ½ tablespoon,Ginger- ½ tablespoon,Garlic- ½ tablespoon,Diced onion- ½ cup,Diced green capsicum- ¼ cup,Diced yellow and red capsicum- ¼ capsicum,Green chili- 1,Soya sauce- 2 ¼ tablespoon,Tomato ketchup- 2 tablespoon,Sugar- A pinch,Vinegar- ½ tablespoon,Spring onions- chopped",
+    "method2":"Add paneer cubes in a bowl with salt, red chili powder, and cornflour. Mix well.Add a few drops of water.Fry the paneer cubes.Take a small bowl and add Kashmiri chili powder with less water to make a solution.Heat oil in a pan and add ginger and garlic. Sauté.Add onions, green capsicum, red and yellow capsicum, and green chili. Sauté.Add the prepared red chili solution. Mix well.Add soya sauce, tomato ketchup, and sugar. Mix well. Add water.Add the fried paneer into the pan. Toss well.Add vinegar and spring onions. Add water and mix well.Take a ½ tablespoon of cornflour in a bowl with two tablespoons water and add this mixture to the prepared dish to thicken the consistency.Add salt to taste and spring onions.Serve hot.",
     "rating2": 5,
+    "photo2":"https://crazymasalafood.com/wp-content/images/Chili-Paneer.jpg.webp",
  
  
-    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
-    "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "recipe3":"Stuffed Mango Kulfi",
+    "ingredients3":"Full cream milk- 1.25 litres,Mangoes- 8,Sugar- 70 grams,Pistachios- for garnishing.",
+    "method3":"Boil milk in a pan. Stir in between.Cut the top of the mango and take out its seed.Cook the milk till it becomes 1/3rd. Add sugar. Mix well.Transfer it to another bowl.Add this mixture into the scooped-out mangoes.Put into the deep freezer until it is completely frozen.When it is done, peel out the skin of the mangoes and slice them into round pieces.Garnish with chopped pistachios.",
     "rating3": 5,
 
-    "popular": "https://1.bp.blogspot.com/-ePRPv4NxLX8/V_fAPlY8CMI/AAAAAAAAZcE/XqnxEKwa5D4XVve2nyouyujsi9_8m7K9QCLcB/s1600/Screen%2BShot%2B2016-10-07%2Bat%2B8.46.20%2BPM.png"
+    "photo3": "https://www.crazymasalafood.com/wp-content/images/Stuffed-Mango-Kulfi.jpg"
   },
    
   {
@@ -159,24 +157,25 @@
     "recipes": 65,
     "bio":"Atul Kochhar is an Indian-born, British-based chef and television personality. Kochhar was one of the first two Indian chefs to receive a Michelin star, awarded in London in 2001 whilst at Tamarind.[1] He opened his own restaurant Benares, which won him a second Michelin star in 2007.[2] Since then he has opened several other restaurants: Kanishka in London, Masalchi in Wembley Park, Sindhu[3] Vaasu, Riwaz and Hawkyns in Buckinghamshire and Indian Essence in Petts Wood, Kent.[4]Kochhar makes regular appearances on television shows, and has written a number of cookbooks: Curry Everyday, Simple Indian, Fish, Indian Style, Curries of the World, and 30 Minute Curries.",
 
-      "recipe1": "Butter Chicken",
-    "ingredients1": "2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
-    "method1": "In a large bowl, whisk together the yogurt ginger paste, garlic paste, cumin powder, coriander powder, garam masala turmeric powder and salt.        Add the chicken to the bowl and mix well to coat Cover and refrigerate for at least 30 minutes or overnight.In a large skillet, melt the butter over medium heat.Add the marinated chicken and cook until browned on all s_ides.Add the tomato puree and simmer for 10-15 minutes, until the chicken is cooked through. Stir in the heavy cream and cook for an additional 5 minutes. Garnish with fresh cilantro leaves and serve with rice or naan bread.",
+      "recipe1":"Turkey Pepper Fry",
+    "ingredients1":"2 tbsp coconut oil,½ tsp mustard seeds,½ tsp fennel seeds,1 dried red chilli,2 medium red onions, thinly sliced (4 shallots),1 red pepper, thinly sliced,1 green pepper, thinly sliced,1 tbsp chopped ginger,1 tbsp chopped garlic,2 green chilli, cut into halves,20 no curry leaves,½ tsp turmeric powder,1 tsp red chilli powder,1 tbsp coriander powder,1 tbsp fennel powder,1 tsp garam masala,½ tsp freshly crushed black pepper,10 baby plum tomatoes, cut into halves,2 tsp coconut or white wine vinegar,Salt to taste,4 Readymade Paratha",
+    "method1":"Heat coconut oil in a pan, saute mustard, fennel, red chili, curry leaves, peppers and,onions together. Add chopped garlic, ginger, green chilli and fried Turkey. Add the powdered spices, cut tomatoes, black pepper, salt and vinegar. Saute on high heat and serve with paratha.Pesci – use prawns or small pieces of white fish Vegetarian – jackfruit or paneer or tofu",
     "rating": 4.5,
-   
+   "photo1":"https://ik.imagekit.io/sbj8bzmjnl4/atul-kochhar-chef/shopimages/products/normal/chef-atul-kochhar-pepper-fry-turkey-recipe-1.jpg",
   
-    "recipe2": "Soya Chop Patio Recipe Card",
-    "ingredients2": "Soya granules soaked 2 cupFresh breadcrumbs 1 cup,Ginger,piece sliced 1/2 inch,Garlic finely chopped 1 teaspoon,Red chilli powder 1 teaspoon",
-    "method2": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "recipe2":"Kanishka Seafood Curry",
+    "ingredients2": "12 Whelks (shelled),50 gm Shrimps,8 Head on Prawns,1 fillet Seabass, cut into 4 pieces,1 fillet Red Snapper, cut into 4 pieces,4 large Scallops,5 tbsp coconut oil,2 tbsp butter,½ lemon,2 cloves garlic, skin on, smashed,10 curry leaves,2 cloves garlic",
+    "method2": "In a large pan heat coconut oil.  Add prawns, cook on one side for 2 minutes and turn to other side.  Add sea bass and red snapper, skin side down and scallops – cook for 2-3 minutes until the fish skin is crisp and scallop is caramelised on one side.  Turn over all the fish, scallop and prawns.  Add Whelks, butter, curry leaves, garlic and allow butter to foam, add lemon juice and then baste the seafood with oil – butter – lemon mixture.  Remove on a kitchen towel lined tray to serve.  Serve immediately.",
     "rating2": 5,
+    "photo2":"https://ik.imagekit.io/sbj8bzmjnl4/atul-kochhar-chef/shopimages/products/normal/kanishka-seafood-curry-by-atul-kochaar-recipe.JPG",
   
   
-    "recipe3": "Mixed Vegetable Cutlets Recipe Card",
-    "ingredients3": "Potatoes boiled and mashed 5-6,French beans blanched and chopped 5-6,Beetroot grated 1 medium,Green peas blanched and crushed 1/2 cup,Oil 2 tablespo to shallow fry,Cumin seeds 1/2 teaspoon,Ginger finely chopped 1 inch piece",
-    "method3": "Place soya granules in a chopper, add fresh breadcrumbs, ginger, garlic, ½ tsp red chilli powder, chaat masala, green chilli paste, salt, 2 tbsps water and chop finely.Transfer the mixture into a bowl, add cornflour and mix well.Heat oil in a non-stick pan.Div_ide the mixture into 4 equal portions and shape each into an oval chop. Pierce an ice cream stick at one end of each chop. Smoothen and place in the pan.",
+    "recipe3":"Pan-fried Sea Bass with Coconut & Turmeric Gravy",
+    "ingredients3": "400ml Moilee Gravy (see recipe below),1 tablespoon coconut oil,4 x 150g sea bass or sea bream fillets, skinned, scored and patted dry 30g butter,juice of ½ lemon,sea salt",
+    "method3": " First make the beetroot mash. Cook the potatoes in boiling salted water until they are very tender, then drain well and mash thoroughly and set aside. Place the milk, cream and butter in a small saucepan and bring to the simmer. Add to the potatoes with salt to taste and mix well. Set aside and keep hot.Season the fish fillets with salt. Melt the coconut oil in a non-stick frying pan over a medium heat and fry the fish, skin side down, for 2 minutes, or until the skin is crisp. Flip the fish over and add the butter and lemon juice and fry for a further 1–2 minutes, basting with the lemony pan juices, until a cocktail stick inserted in the centre meets no resistance. Drain on kitchen paper to absorb the excess oil.Just before serving, stir the beetroot into the mashed potatoes and gently reheat, if necessary. Serve the fish with the beetroot mash and the gravy spooned around. Garnish and serve immediately.",
     "rating3": 5,
   
-    "popular": "https://media-cdn2.greatbritishchefs.com/media/1e1pkj5a/img88112.whqc_1536x1024q90.webp"
+    "photo3": "https://ik.imagekit.io/sbj8bzmjnl4/atul-kochhar-chef/shopimages/products/normal/pan-fried-sea-bass-coconut-turmeric-gravy.jpg"
   }
    
 ]
