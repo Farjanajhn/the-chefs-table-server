@@ -5,7 +5,7 @@
     "name": "Sanjeev Kapoor",
     "experience": 12,
     "likes": "42k",
-    "recipes": 3,
+    "recipes": 57,
     "popular":"https://www.sanjeevkapoor.com/UploadFiles/ArticleImages/Top_5_Spinach_Recipes_.JPG"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Ranveer Brar",
     "experience": 10,
     "likes": "4k",
-    "recipes": 2,
+    "recipes": 24,
     "popular":"https://c.ndtvimg.com/2022-03/4pedrge8_cutlet_625x300_08_March_22.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350"
   },
   {
@@ -24,7 +24,7 @@
     "name": "Vikas Khanna",
     "experience":12,
     "likes": "3.5k",
-    "recipes": 3,
+    "recipes": 33,
     "popular":"https://images.indulgexpress.com/uploads/user/imagelibrary/2020/1/16/original/Oatsaranciniballs.jpeg?w=576&dpr=2.0"
   },
   {
@@ -34,7 +34,7 @@
     "name": "Pankaj Bhadouriar",
     "experience": 24,
     "likes": "5.1k",
-    "recipes": 5,
+    "recipes": 42,
     "popular":"https://www.pankajbhadouria.com/wp-content/uploads/chicken-65.jpg"
   },
   {
@@ -43,7 +43,7 @@
     "name": "Kunal Kapur",
     "experience": 15,
     "likes": "1.1k",
-    "recipes": 3,
+    "recipes": 38,
     "popular":"https://1.bp.blogspot.com/-ePRPv4NxLX8/V_fAPlY8CMI/AAAAAAAAZcE/XqnxEKwa5D4XVve2nyouyujsi9_8m7K9QCLcB/s1600/Screen%2BShot%2B2016-10-07%2Bat%2B8.46.20%2BPM.png"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Atul Kochhar",
     "experience": 10,
     "likes": "452k",
-    "recipes": 1,
+    "recipes": 32,
     "popular":"https://media-cdn2.greatbritishchefs.com/media/1e1pkj5a/img88112.whqc_1536x1024q90.webp"
   }
 ]

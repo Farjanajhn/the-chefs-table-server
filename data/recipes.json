@@ -7,7 +7,7 @@
     "experience": 12,
     "likes": "42k",
     "bio": "Kapoor was born in April 1964 in Ambala and spent his childhood in multiple North Indian cities. He began his career in the hospitality industry in 1984 after completing the Diploma in Hotel Management from the Institute of Hotel Management Catering & Nutrition, Pusa, New Delhi.",
-    "recipes": 23,
+    "recipes": 57,
 
       "recipe1":"Butter Chicken",
       "ingredients1":"2 lbs boneless chicken breasts,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp cumin powder,1 tsp coriander powder,1 tsp garam masala",
@@ -36,7 +36,7 @@
     "bio": "He d_id his schooling from HAL school Lucknow. His passion to learn the art led him to volunteer as an apprentice to one of them, Munir Ustad. Though his family initially resisted, they finally gave in, leading Brar to join Institute of Hotel Management, Lucknow, for a more formal initiation into the culinary world.",
     "experience": 10,
     "likes": "4k",
-    "recipes": 45,
+    "recipes": 24,
     
       "recipe1":"Dahi Poha",
     "ingredients1":"Poha–50 gms,Curd–100 gms,Jaggery powder/sugar–50 gms,Cardamom powder–1 tbsp,Milk–2 tbsp,Pomegranate – 1",
@@ -64,7 +64,7 @@
     "experience": 12,
     "bio":"Chef Vikas Khanna is a Michelin-starred chef, restaurateur, cookbook writer, filmmaker, and humanitarian. Vikas Khanna was born on November 14, 1971, in Amritsar, Punjab, to Davinder and Bindu Khanna. Vikas was born with a leg deformity, and he was not able to run until the age of 13",
     "likes": "3.5k",
-    "recipes": 34,
+    "recipes": 33,
       "recipe1":"Chai-Infused Emperor’s Green Rice",
     "ingredients1":"Emperor’s green rice- 1 cup,White cloves- 4,Unsalted butter– 2 tablespoons,Bay leaves- 4,Green cardamom pods- 6,Three-inch-long cinnamon sticks- 2,Strong black tea bags,Two-inch-long fresh ginger (peeled and minced)- 1,Water- 1 1/2 cups,Finely chopped fresh cilantro- 1/2 cup,Salt- 1 teaspoon",
     "method1":"Wash the rice in cold water and soak for half an hour in cold water. Set aside for a while.Preheat the oven to 350 Fahrenheit.Melt butter over medium heat.Add bay leaves, cardamom, cloves, ginger, and cinnamon. Stir for two minutes.Add rice and sauté for a few minutes.Add the water, salt, and tea bags. Boil and cover with a kitchen towel and lid.Bake for 15 minutes.Remove tea bags carefully and garnish with cilantro.",
@@ -92,7 +92,7 @@
     "experience": 24,
 
     "likes": "5.1k",
-    "recipes": 138,
+    "recipes": 42,
     
     "recipe1": "Tandoori Aloo",
     "ingredients1": "½ cup hung yoghurt,2tbsp ginger garlic paste,1tbsp chopped coriander leaves,1tsp chopped green chilies,1tbsp mustard oil,1tbsp fresh lime juice,1 tsp salt,½ tsp turmeric powder,½tsp garam masala,1tsp chat masala,1tbsp kashmiri red chili powder,1tbsp kasoori methi,400g parboiled baby potatoes,Oil to fry",
@@ -123,7 +123,7 @@
     "experience": 15,
     "likes": "1.1k",
     "bio":"Kapur was born in New Delhi to a Punjabi family. He studied at St. Francis De Sales School and pursued higher education in Hotel Management from Dr. Ambedkar Institute of Hotel Management Catering & Nutrition, Chandigarh.From a very early age, Kapur took a liking to cooking and pursued it to become one of the most well-known chefs in India. He trains underprivileged and unemployed youth in cooking and helps raise funds to make their own sustained food business together with United Ways Delhi. He is also passionate about automobiles, technology, travel, fashion and history.",
-    "recipes": 73,
+    "recipes": 38,
   
       "recipe1":"Caramel Custard",
     "ingredients1":"Milk- 500 ml,Sugar- 80 grams,Eggs- 6,Sugar for caramel- 100 grams,Vanilla extract- 3 ml",
@@ -154,21 +154,19 @@
     "name": "Atul Kochhar",
     "experience": 10,
     "likes": "452k",
-    "recipes": 65,
+    "recipes": 32,
     "bio":"Atul Kochhar is an Indian-born, British-based chef and television personality. Kochhar was one of the first two Indian chefs to receive a Michelin star, awarded in London in 2001 whilst at Tamarind.[1] He opened his own restaurant Benares, which won him a second Michelin star in 2007.[2] Since then he has opened several other restaurants: Kanishka in London, Masalchi in Wembley Park, Sindhu[3] Vaasu, Riwaz and Hawkyns in Buckinghamshire and Indian Essence in Petts Wood, Kent.[4]Kochhar makes regular appearances on television shows, and has written a number of cookbooks: Curry Everyday, Simple Indian, Fish, Indian Style, Curries of the World, and 30 Minute Curries.",
 
       "recipe1":"Turkey Pepper Fry",
     "ingredients1":"2 tbsp coconut oil,½ tsp mustard seeds,½ tsp fennel seeds,1 dried red chilli,2 medium red onions, thinly sliced (4 shallots),1 red pepper, thinly sliced,1 green pepper, thinly sliced,1 tbsp chopped ginger,1 tbsp chopped garlic,2 green chilli, cut into halves,20 no curry leaves,½ tsp turmeric powder,1 tsp red chilli powder,1 tbsp coriander powder,1 tbsp fennel powder,1 tsp garam masala,½ tsp freshly crushed black pepper,10 baby plum tomatoes, cut into halves,2 tsp coconut or white wine vinegar,Salt to taste,4 Readymade Paratha",
     "method1":"Heat coconut oil in a pan, saute mustard, fennel, red chili, curry leaves, peppers and,onions together. Add chopped garlic, ginger, green chilli and fried Turkey. Add the powdered spices, cut tomatoes, black pepper, salt and vinegar. Saute on high heat and serve with paratha.Pesci – use prawns or small pieces of white fish Vegetarian – jackfruit or paneer or tofu",
     "rating": 4.5,
-   "photo1":"https://ik.imagekit.io/sbj8bzmjnl4/atul-kochhar-chef/shopimages/products/normal/chef-atul-kochhar-pepper-fry-turkey-recipe-1.jpg",
-  
+   
     "recipe2":"Kanishka Seafood Curry",
     "ingredients2": "12 Whelks (shelled),50 gm Shrimps,8 Head on Prawns,1 fillet Seabass, cut into 4 pieces,1 fillet Red Snapper, cut into 4 pieces,4 large Scallops,5 tbsp coconut oil,2 tbsp butter,½ lemon,2 cloves garlic, skin on, smashed,10 curry leaves,2 cloves garlic",
     "method2": "In a large pan heat coconut oil.  Add prawns, cook on one side for 2 minutes and turn to other side.  Add sea bass and red snapper, skin side down and scallops – cook for 2-3 minutes until the fish skin is crisp and scallop is caramelised on one side.  Turn over all the fish, scallop and prawns.  Add Whelks, butter, curry leaves, garlic and allow butter to foam, add lemon juice and then baste the seafood with oil – butter – lemon mixture.  Remove on a kitchen towel lined tray to serve.  Serve immediately.",
     "rating2": 5,
-    "photo2":"https://ik.imagekit.io/sbj8bzmjnl4/atul-kochhar-chef/shopimages/products/normal/kanishka-seafood-curry-by-atul-kochaar-recipe.JPG",
-  
+    
   
     "recipe3":"Pan-fried Sea Bass with Coconut & Turmeric Gravy",
     "ingredients3": "400ml Moilee Gravy (see recipe below),1 tablespoon coconut oil,4 x 150g sea bass or sea bream fillets, skinned, scored and patted dry 30g butter,juice of ½ lemon,sea salt",
